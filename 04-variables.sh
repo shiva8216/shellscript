@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PERSON1=$1  # its arguments 
+PERSON1=$1  # its arguments ,script name and aruguments 
 PERSON2=$2
 
 echo "$PERSON1:: Hi $PERSON2"
