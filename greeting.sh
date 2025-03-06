@@ -3,7 +3,7 @@
 # A simple variable example
 
 
-name=mallik
+name=suresh
 greeting=Hello
 
 echo $greeting $name
