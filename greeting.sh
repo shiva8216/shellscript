@@ -2,6 +2,8 @@
 
 # A simple variable example
 
-greeting=Hello
+
 name=mallik
+greeting=Hello
+
 echo $greeting $name
